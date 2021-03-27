@@ -35,9 +35,11 @@ I'm a designer and self taught developer. With my background as a stage designer
 - 🎨🎭 Creative mind
 - 🧑‍💻🚀🧰 Technophile
 - ⚽🚲🧘‍♂️ Sports lover
+- 🔪🍴🥘 Cook and food lover
+- 📫 How to reach me: heinerbehrends@hotmail.com
 
 ## My personal projects
-On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions.
+On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions. Here are some of the more recent examples.
 
 ### 🦠 Simulating Virus Dynamics
 An implementation of the problem set 12 of the MIT course 6.00 Introduction to computer science and programming
