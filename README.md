@@ -11,6 +11,31 @@ I'm a designer and self taught developer. With my background as a stage designer
   - writing beautiful code
   - designing beautiful websites
 
+## My programming tools
+
+<br><img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="32">&nbsp;&nbsp;&nbsp;
+<img alt="React" title="React"   src="https://michelenasti.com/images/1024px-React-icon.svg.png" height="32">&nbsp;&nbsp;&nbsp;
+<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Styled Components logo" title="Styled-Components" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/styled-components-logo.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Nextjs logo" title="Nextjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/311px-Nextjs-logo.svg.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Gatsby logo" title="Gatsbyjs" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="GraphQL" title="GraphQL" src="https://1.bp.blogspot.com/-NesqbdcaDCE/XJQDQ4JfaMI/AAAAAAAAJSg/ZOypdkZOhMAQss6zHW67dyFZv7yVv8EIQCK4BGAYYCw/s1600/logo%2Bgraphql%2Bicon.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Jest" title="Jest" src="https://cdn.rawgit.com/grab/front-end-guide/master/images/jest-logo.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Testing library" title="testing library" src="https://testing-library.com/img/octopus-128x128.png" height="32"><br><br>
+
+## About me
+
+- ‍👨‍👩‍👧‍👦 Husband and father of two
+- 🎸🪕🎹🎶🎛 Versatile musician
+- 🎨🎭 Creative mind
+- 🧑‍💻🚀🧰 Technophile
+- ⚽🚲🧘‍♂️ Sports lover
+
 ## My personal projects
 On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions.
 
