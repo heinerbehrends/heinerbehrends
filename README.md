@@ -31,7 +31,7 @@ I'm a designer and self-taught developer. With my background as a stage designer
 <img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="32">&nbsp;&nbsp;&nbsp;
-<img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" height="32">&nbsp;&nbsp;&nbsp;
+<img alt="React" title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="32">&nbsp;&nbsp;&nbsp;
 <img alt="Redux" title="Redux" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" height="32">&nbsp;&nbsp;&nbsp;
 <img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Styled Components logo" title="Styled-Components" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/styled-components-logo.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
