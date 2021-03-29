@@ -1,6 +1,6 @@
 # Hello, I'm Heiner 👋
 
-I'm a designer and self taught developer. With my background as a stage designer it comes naturally to me to care about user experience. That's why I specialize in front-end development using the react ecosystem and the PWA frameworks Gatsby and Nextjs.
+I'm a designer and self-taught developer. With my background as a stage designer it comes naturally to me to care about user experience. That's why I specialize in front-end development using the react ecosystem and the PWA frameworks Gatsby and Nextjs.
 
 💻 I'm currently working as my own boss at [flyfi web development](https://www.flyfi.nl)
 ⚡ flyfi specializes in building highly performant progressive web apps
@@ -10,7 +10,7 @@ I'm a designer and self taught developer. With my background as a stage designer
 
 - ‍👨‍👩‍👧‍👦 Husband and father of two
 - 🧑‍💻🚀🧰 Self-taught developer and technophile
-- ✏️ Designer with experience in stage design and graphic design
+- ✏️ Designer with experience in stage design, graphic design and web design
 - 🧩 I'm currently upping my skills on: 
   - TypeScript
   - Cypress integration and end-to-end testing
