@@ -9,7 +9,7 @@ I'm a designer and self taught developer. With my background as a stage designer
 ## About me
 
 - ‍👨‍👩‍👧‍👦 Husband and father of two
-- 🧑‍💻🚀🧰 Technophile
+- 🧑‍💻🚀🧰 Self-taught developer and technophile
 - ✏️ Designer with experience in stage design and graphic design
 - 🧩 I'm currently upping my skills on: 
   - TypeScript
