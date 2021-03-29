@@ -2,7 +2,7 @@
 
 I'm a designer and self-taught developer. With my background as a stage designer it comes naturally to me to care about user experience. That's why I specialize in front-end development using the react ecosystem and the PWA frameworks Gatsby and Nextjs.
 
-💻 I'm currently working as my own boss at [flyfi web development](https://www.flyfi.nl)
+💻 I'm currently working as my own boss at [flyfi web development](https://www.flyfi.nl).
 ⚡ flyfi specializes in building highly performant progressive web apps
 
 
