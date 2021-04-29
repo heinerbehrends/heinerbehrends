@@ -56,7 +56,7 @@ Check out the interactive simulation on Vercel: https://virus-simulation-next.ve
 ### 🎸 We're The Buzz - website
 Design and implementation of a website for my New Wave band The Buzz. Featuring a videowall that adapts its height to the screen size, a custom hook parallax effect using requestAnimationFrame and a special audio player. Build with Gatsby and TypeScript. Check it out: https://modest-snyder-67ce38.netlify.app/
 ### 🔠 Pizzazz - An online multiplayer micro-scrabble game
-Pizzazz consists of a react frontend that uses Redux and Redux-Saga for async state management and a nodejs backend. Web sockets are used for fast bi-directional communication between the server and the client. Pizzazz is build using create-react-app and hosted on heroku, so it takes a long time to load. Check it out at https://pizzazz-micro-scrabble.herokuapp.com/.
+Pizzazz consists of a react frontend that uses Redux and Redux-Saga for async state management and a nodejs backend. Web sockets are used for fast bi-directional communication between the server and the client. Pizzazz is not converted to static site generation and hosted on heroku, so it takes a long time to load. Be patient and check it out at https://pizzazz-micro-scrabble.herokuapp.com/.
 ### 🧠 Giphy concentration
 Giphy concentration is an online version of the children's game concentration, also known as Memory in Europe. It uses a search box and the Giphy API to fetch animated gifs. Build with TypeScript and Nextjs it uses serverless functions and Netlify environment variables to hide the Giphy API Key. Check it out on Netlify: https://laughing-northcutt-c5cdcb.netlify.app/
 ### 🌱 Game of Life React
