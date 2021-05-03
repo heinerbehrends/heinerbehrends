@@ -15,7 +15,7 @@ I'm a designer and self-taught developer. With my background as a stage designer
   - TypeScript
   - Cypress integration and end-to-end testing
   - serverless backend and database services
-  - writing readable code
+  - writing code that's well structured and easy to understand
   - designing beautiful websites
 - ⚽🚲🧘‍♂️ Sports lover
 - 🎸🪕🎹🎶🎛 Versatile musician
