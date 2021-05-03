@@ -13,7 +13,8 @@ I'm a designer and self-taught developer. With my background as a stage designer
 - ✏️ Designer with experience in stage design, graphic design and web design
 - 🧩 I'm currently upping my skills on: 
   - TypeScript
-  - Cypress integration and end-to-end testing
+  - Unit test with Jest and react-testing-library and mock service worker
+  - Integration and end-to-end testing with Cypress
   - serverless backend and database services
   - writing code that's well structured and easy to understand
   - designing beautiful websites
