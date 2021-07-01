@@ -44,7 +44,7 @@ I'm a designer and self-taught developer. With my background as a stage designer
 <img alt="GraphQL" title="GraphQL" src="https://1.bp.blogspot.com/-NesqbdcaDCE/XJQDQ4JfaMI/AAAAAAAAJSg/ZOypdkZOhMAQss6zHW67dyFZv7yVv8EIQCK4BGAYYCw/s1600/logo%2Bgraphql%2Bicon.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Jest" title="Jest" src="https://cdn.rawgit.com/grab/front-end-guide/master/images/jest-logo.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Testing library" title="testing library" src="https://testing-library.com/img/octopus-128x128.png" height="32"><br><br>
-
+<img alt="Testing library" title="testing library" src="https://seeklogo.com/images/H/hasura-logo-B718105639-seeklogo.com.png" height="32"><br><br>
 
 ## My personal projects
 On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions. Here are some of the more recent examples.
@@ -55,7 +55,7 @@ An implementation of the [problem set 12 of the MIT course 6.00 Introduction to 
 It is build using typescript and relies on functional programming priciples like closures for information hiding, pure functions and immutable data structures. This approach leads to a more maintable code base and less mental overload, compared to an object oriented approach that uses shared mutable state. Uses the ramda library for its map and mapAccum functions, recharts for data visualisation, react-query to manage server state and the nextjs framework.
 Check out the interactive simulation on Vercel: https://virus-simulation-next.vercel.app/
 ### 🎸 We're The Buzz - website
-Design and implementation of a website for my New Wave band The Buzz. Featuring a videowall that adapts its height to the screen size, a custom hook parallax effect using requestAnimationFrame and a special audio player. Build with Gatsby and TypeScript. Check it out: https://modest-snyder-67ce38.netlify.app/
+Design and implementation of a website for my New Wave band The Buzz. Featuring a videowall that adapts its height to the screen size, a custom hook parallax effect using requestAnimationFrame and a special audio player. Uses a Hasura database to save the heart count of each song. Build with Gatsby and TypeScript. Check it out on Netlify: https://modest-snyder-67ce38.netlify.app/
 ### 🧠 Giphy concentration/memory
 Giphy concentration is an online version of the children's game concentration, known as Memory in Europe. It uses a search box and the Giphy API to fetch animated gifs. Build with TypeScript and Nextjs it uses serverless functions and Netlify environment variables to hide the Giphy API Key. Check it out on Vercel: https://giphy-concentration-next.vercel.app/
 ### 🌱 Game of Life React
