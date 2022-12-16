@@ -62,7 +62,7 @@ Giphy concentration is an online version of the children's game concentration, k
 An implementation of Conwell's Game of Life for the react library. It features the possibility to seed many different patterns like methusalems, oscillators and space ships, controls for the speed and a start/stop button. Check it out on Netlify: https://game-of-life-immer.netlify.app/
 Game of Life is build using Redux for state management and the [immer library](immerjs.github.io/) for immutable data structures. The size of the game automatically adapts to the size of the screen.
 ### 🔠 Pizzazz - An online multiplayer micro-scrabble game
-Pizzazz is to scrabble what a blog post is to a tweet. Pizzazz consists of a react frontend that uses Redux and Redux-Saga for async state management and a nodejs backend. Web sockets are used for fast bi-directional communication between the server and the client. Pizzazz is not yet up to my standards for fast websites, it takes a long time to load. Be patient and [check it out the railway app](https://pizzazz-production.up.railway.app).
+Pizzazz is to scrabble what a blog post is to a tweet. Pizzazz consists of a react frontend that uses Redux and Redux-Saga for async state management and a nodejs backend. Web sockets are used for fast bi-directional communication between the server and the client. Pizzazz is not yet up to my standards for fast websites, it takes a long time to load. Be patient and [check out the railway app](https://pizzazz-production.up.railway.app).
 
 <!--
 **heinerbehrends/heinerbehrends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
