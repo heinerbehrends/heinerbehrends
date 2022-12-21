@@ -2,8 +2,7 @@
 
 I'm a web developer and designer with a background in stage design. It comes naturally to me to care about user experience and so I specialize in front-end development. My main expertise is with building web apps with React and ecosystem that surrounds it.
 
-💻 I'm currently working at [Embrace - the Human Cloud](https://www.embracecloud.nl/) ☁️ as a front-end developer, building a web application with React, TypeScript and GraphQL. Before I worked as my own boss at [flyfi web development](https://www.flyfi.nl).
-⚡ flyfi specialized in building highly performant progressive web apps 🚄
+💻 I'm currently working at [Embrace - the Human Cloud](https://www.embracecloud.nl/) ☁️ as a front-end developer, building a web application with React, TypeScript and GraphQL. Before I worked as my own boss at [flyfi web development](https://www.flyfi.nl). flyfi specialized in building performant progressive web apps ⚡.
 
 
 ## About me
@@ -12,10 +11,12 @@ I'm a web developer and designer with a background in stage design. It comes nat
 - 🧑‍💻🚀 Self-taught developer
 - ✏️ Designer with experience in stage design, graphic design and web design
 - 🧩 Experience with: 
+  - React 
   - TypeScript
   - Unit test with Jest and react-testing-library and mock service worker
   - Integration and end-to-end testing with Cypress
   - serverless backend and database services
+  - basic backend skills
   - writing code that's well structured and easy to understand
   - designing beautiful websites
 - ⚽🚲🧘‍♂️ Sports lover
