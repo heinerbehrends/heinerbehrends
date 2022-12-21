@@ -1,6 +1,6 @@
 # Heiner S. Behrends
 
-I'm a designer and self-taught developer. With my background as a stage designer it comes naturally to me to care about user experience. That's why I specialize in front-end development using the react ecosystem and the PWA frameworks Gatsby and Nextjs.
+I'm a web developer and designer with a background in stage design. It comes naturally to me to care about user experience and so I specialize in front-end development. My main expertise is with building web apps with React and ecosystem that surround it.
 
 💻 I'm currently working at [Embrace - the Human Cloud](https://www.embracecloud.nl/) as a front-end developer, building a web application with React, TypeScript and GraphQL. Before I worked as my own boss at [flyfi web development](https://www.flyfi.nl).
 ⚡ flyfi specialized in building highly performant progressive web apps 🚄
@@ -11,7 +11,7 @@ I'm a designer and self-taught developer. With my background as a stage designer
 - ‍👨‍👩‍👧‍👦 Husband and father of two
 - 🧑‍💻🚀 Self-taught developer
 - ✏️ Designer with experience in stage design, graphic design and web design
-- 🧩 I'm currently upping my skills on: 
+- 🧩 Experience with: 
   - TypeScript
   - Unit test with Jest and react-testing-library and mock service worker
   - Integration and end-to-end testing with Cypress
