@@ -35,8 +35,8 @@ I'm a web developer and designer with a background in stage design. It comes nat
 <img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="32">&nbsp;&nbsp;&nbsp;
 <img alt="React" title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="32">&nbsp;&nbsp;&nbsp;
 <img alt="Redux" title="Redux" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" height="32">&nbsp;&nbsp;&nbsp;
-<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Styled Components logo" title="Styled-Components" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/styled-components-logo.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Node.js" title="Node.js" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Tailwind logo" title="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Figma" title="Figma" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=1104" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,7 +44,6 @@ I'm a web developer and designer with a background in stage design. It comes nat
 <img alt="GraphQL" title="GraphQL" src="https://1.bp.blogspot.com/-NesqbdcaDCE/XJQDQ4JfaMI/AAAAAAAAJSg/ZOypdkZOhMAQss6zHW67dyFZv7yVv8EIQCK4BGAYYCw/s1600/logo%2Bgraphql%2Bicon.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Jest" title="Jest" src="https://cdn.rawgit.com/grab/front-end-guide/master/images/jest-logo.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Testing library" title="testing library" src="https://testing-library.com/img/octopus-128x128.png" height="32"><br><br>
-<img alt="Testing library" title="testing library" src="https://seeklogo.com/images/H/hasura-logo-B718105639-seeklogo.com.png" height="32"><br><br>
 
 ## My personal projects
 On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions. Here are some of the more recent examples.
