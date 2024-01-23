@@ -40,8 +40,7 @@ I'm a web developer and designer with a background in stage design. It comes nat
 <img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Figma" title="Figma" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=1104" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Nextjs logo" title="Nextjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/311px-Nextjs-logo.svg.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Gatsby logo" title="Gatsbyjs" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Nextjs logo" title="Nextjs" src="https://pbs.twimg.com/media/FAXymZJXIAkERod.jpg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="GraphQL" title="GraphQL" src="https://1.bp.blogspot.com/-NesqbdcaDCE/XJQDQ4JfaMI/AAAAAAAAJSg/ZOypdkZOhMAQss6zHW67dyFZv7yVv8EIQCK4BGAYYCw/s1600/logo%2Bgraphql%2Bicon.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Jest" title="Jest" src="https://cdn.rawgit.com/grab/front-end-guide/master/images/jest-logo.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Testing library" title="testing library" src="https://testing-library.com/img/octopus-128x128.png" height="32"><br><br>
