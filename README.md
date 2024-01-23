@@ -34,7 +34,7 @@ I'm a web developer and designer with a background in stage design. It comes nat
 <img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="32">&nbsp;&nbsp;&nbsp;
 <img alt="React" title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="32">&nbsp;&nbsp;&nbsp;
-<img alt="xstate" title="XState" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodlrNuBG-Ygkk4MG49E_84TJYiSwG_NCc5F6hyvKInKsLw1Pg0AFVAJCKVmZ65L895Pc&usqp=CAU" height="32">&nbsp;&nbsp;&nbsp;
+<img alt="xstate" title="XState" src="https://graph-docs.vercel.app/icon-512.png" height="32">&nbsp;&nbsp;&nbsp;
 <img alt="Node.js" title="Node.js" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Tailwind logo" title="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
