@@ -49,13 +49,12 @@ I'm a web developer and designer with a background in stage design. It comes nat
 ## My personal projects
 On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions. Here are some of the more recent examples.
 
-
+### 🔠 Pizzazz - An online multiplayer micro-scrabble game
+Pizzazz is to scrabble what a blog post is to a tweet. Pizzazz consists of a react frontend that uses Redux and Redux-Saga for async state management and a nodejs backend. Web sockets are used for fast bi-directional communication between the server and the client. I [rewrote the application](https://github.com/heinerbehrends/pizzazz) with TypeScript, XState an Partykit. 
 ### 🦠 Simulating Virus Dynamics
 An implementation of the [problem set 12 of the MIT course 6.00 Introduction to computer science and programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/pset12.pdf) using the Nextjs framework to combine nodejs server code and react client code.
 It is build using typescript and relies on functional programming priciples like closures for information hiding, pure functions and immutable data structures. This approach leads to a more maintable code base and less mental overload, compared to an object oriented approach that uses shared mutable state. Uses the ramda library for its map and mapAccum functions, recharts for data visualisation, react-query to manage server state and the nextjs framework.
 Check out the interactive simulation on Vercel: https://virus-simulation-next.vercel.app/
-### 🔠 Pizzazz - An online multiplayer micro-scrabble game
-Pizzazz is to scrabble what a blog post is to a tweet. Pizzazz consists of a react frontend that uses Redux and Redux-Saga for async state management and a nodejs backend. Web sockets are used for fast bi-directional communication between the server and the client. [Check out the railway app](https://pizzazz-production.up.railway.app).
 ### 🎸 We're The Buzz - website
 Design and implementation of a website for my New Wave band The Buzz. Featuring a videowall that adapts its height to the screen size, a custom hook parallax effect using requestAnimationFrame and a special audio player. Uses a Hasura database and Netlify functions to save the heart count of each song. Build with Gatsby and TypeScript. Check it out on Netlify: https://werethebuzz.netlify.app/
 ### 🧠 Giphy concentration/memory
