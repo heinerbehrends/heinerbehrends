@@ -43,8 +43,8 @@ I'm a web developer and designer with a background in stage design. It comes nat
 <img alt="Nextjs logo" title="Nextjs" src="https://pbs.twimg.com/media/FAXymZJXIAkERod.jpg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="GraphQL" title="GraphQL" src="https://1.bp.blogspot.com/-NesqbdcaDCE/XJQDQ4JfaMI/AAAAAAAAJSg/ZOypdkZOhMAQss6zHW67dyFZv7yVv8EIQCK4BGAYYCw/s1600/logo%2Bgraphql%2Bicon.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Jest" title="Jest" src="https://cdn.rawgit.com/grab/front-end-guide/master/images/jest-logo.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Testing library" title="testing library" src="https://testing-library.com/img/octopus-128x128.png" height="32">
-<img alt="Playwright" title="Playwright" src="https://playwright.dev/img/playwright-logo.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img alt="Testing library" title="testing library" src="https://testing-library.com/img/octopus-128x128.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Playwright" title="Playwright" src="https://playwright.dev/img/playwright-logo.svg" height="32"><br><br>
 
 ## My personal projects
 On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions. Here are some of the more recent examples.
