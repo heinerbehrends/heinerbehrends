@@ -32,7 +32,7 @@ I'm a web developer and designer with a background in stage design. It comes nat
 
 <br><img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="JavaScript" title="Playwright" src="https://playwright.dev/img/playwright-logo.svg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="32">&nbsp;&nbsp;&nbsp;
 <img alt="React" title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="32">&nbsp;&nbsp;&nbsp;
 <img alt="xstate" title="XState" src="https://graph-docs.vercel.app/icon-512.png" height="32">&nbsp;&nbsp;&nbsp;
