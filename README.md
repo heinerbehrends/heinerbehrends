@@ -37,7 +37,7 @@ I'm a web developer and designer with a background in stage design. It comes nat
 <img alt="xstate" title="XState" src="https://graph-docs.vercel.app/icon-512.png" height="32">&nbsp;&nbsp;&nbsp;
 <img alt="Node.js" title="Node.js" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Tailwind logo" title="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Cursor" title="Cursor" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/light/cursor.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Cursor" title="Cursor" src="https://img.icons8.com/color/512/cursor-ai.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Figma" title="Figma" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=1104" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Nextjs logo" title="Nextjs" src="https://pbs.twimg.com/media/FAXymZJXIAkERod.jpg" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
