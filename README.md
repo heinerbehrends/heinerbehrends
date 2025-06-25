@@ -15,9 +15,9 @@ I'm a web developer and designer with a background in stage design. It comes nat
   - React Native
   - TypeScript
   - Unit test with Jest and react-testing-library and mock service worker
-  - Integration and end-to-end testing with Cypress
+  - Integration and end-to-end testing with Playwright
   - serverless backend and database services
-  - basic backend skills
+  - Backend skills
   - writing code that's well structured and easy to understand
   - designing beautiful websites
 - ⚽🚲🧘‍♂️ Sports lover
@@ -48,6 +48,9 @@ I'm a web developer and designer with a background in stage design. It comes nat
 
 ## My personal projects
 On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions. Here are some of the more recent examples.
+
+### 🎵 React-Audio-Player - A headless audio player library
+React-Audio-Player is an open source NPM package. I developed the library to fulfill a personal need: a robust and easy-to-use audio player for React applications that solves all the problems of working with the HTML audio element and at the same time offers great flexiblity when it comes to styling and composing user interfaces. https://github.com/heinerbehrends/react-audio-player
 
 ### 🔠 Pizzazz - An online multiplayer micro-scrabble game
 Pizzazz is to scrabble what a blog post is to a tweet. Pizzazz consists of a react frontend that uses Redux and Redux-Saga for async state management and a nodejs backend. Web sockets are used for fast bi-directional communication between the server and the client. I [rewrote the application](https://github.com/heinerbehrends/pizzazz) with TypeScript, XState an Partykit. 
