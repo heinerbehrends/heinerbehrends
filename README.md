@@ -2,7 +2,7 @@
 
 I'm a web developer and designer with a background in stage design. It comes naturally to me to care about user experience and so I specialize in front-end development. My main expertise is with building web apps with React and ecosystem that surrounds it.
 
-💻 After a great start at [Embrace - the Human Cloud](https://www.embracecloud.nl/) ☁️ I'm currently working at [Mediahuis Noord](https://https://www.mediahuisnoord.nl/) 📰 as a front-end developer, building the app and the new website with React and TypeScript. Before I worked as my own boss at [flyfi web development](https://www.flyfi.nl). flyfi specialized in building performant progressive web apps ⚡.
+💻 After a great start at [Embrace - the Human Cloud](https://www.embracecloud.nl/) ☁️ I'm currently working at [Mediahuis Nederland](https://https://www.mediahuis.nl/) 📰 as a front-end developer, building the app and the new website with React and TypeScript. Before I worked as my own boss at [flyfi web development](https://www.flyfi.nl). flyfi specialized in building performant progressive web apps ⚡.
 
 
 ## About me
