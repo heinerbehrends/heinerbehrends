@@ -49,7 +49,7 @@ I'm a web developer and designer with a background in stage design. It comes nat
 ## My personal projects
 On my journey to become a developer I learned a lot by building personal projects, that challenged different kinds of skills and helped me to learn different technologies like react, css-in-js, testing, redux, gatsby and nextjs, immutable data structures and serverless functions. Here are some of the more recent examples.
 
-### 🎵 React-Audio-Player - A headless audio player library
+## 🎵 React-Audio-Player - A headless audio player library
 React-Audio-Player is an open source NPM package. I developed the library to fulfill a personal need: a robust and easy-to-use audio player for React applications that solves all the problems of working with the HTML audio element and at the same time offers great flexiblity when it comes to styling and composing user interfaces. https://github.com/heinerbehrends/react-audio-player
 
 ### 🔠 Pizzazz - An online multiplayer micro-scrabble game
@@ -60,8 +60,6 @@ It is build using typescript and relies on functional programming priciples like
 Check out the interactive simulation on Vercel: https://virus-simulation-next.vercel.app/
 ### 🎸 We're The Buzz - website
 Design and implementation of a website for my New Wave band The Buzz. Featuring a videowall that adapts its height to the screen size, a custom hook parallax effect using requestAnimationFrame and a special audio player. Uses a Hasura database and Netlify functions to save the heart count of each song. Build with Gatsby and TypeScript. Check it out on Netlify: https://werethebuzz.netlify.app/
-### 🧠 Giphy concentration/memory
-Giphy concentration is an online version of the children's game concentration, known as Memory in Europe. It uses a search box and the Giphy API to fetch animated gifs. Build with TypeScript and Remix it uses serverless functions and environment variables to hide the Giphy API Key. Check it out on Vercel: https://remix-vercel-test-b84xhuwpu-heinerbehrends.vercel.app/
 ### 🌱 Game of Life React
 An implementation of Conwell's Game of Life for the react library. It features the possibility to seed many different patterns like methusalems, oscillators and space ships, controls for the speed and a start/stop button. Check it out on Netlify: https://game-of-life-immer.netlify.app/
 Game of Life is build using Redux for state management and the [immer library](immerjs.github.io/) for immutable data structures. The size of the game automatically adapts to the size of the screen.
