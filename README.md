@@ -53,7 +53,7 @@ On my journey to become a developer I learned a lot by building personal project
 React-Audio-Player is an open source NPM package. I developed the library to fulfill a personal need: a robust and easy-to-use audio player for React applications that solves all the problems of working with the HTML audio element and at the same time offers great flexiblity when it comes to styling and composing user interfaces. https://github.com/heinerbehrends/react-audio-player
 
 ## 🎵 Heart rate to midi
-For Heart-rate-to-midi I use an esp32 and a sensor to uitput midi clock data for performance. Tempo can either slowly drift towards the heart rate bpm or it can change in quantized steps. Features a led for sensor state and a led for playing state and a control to double the tempo.
+For Heart-rate-to-midi I use an esp32 and a sensor to uitput midi clock data for performance. Tempo can either slowly drift towards the heart rate bpm or it can change in quantized steps. Features a led for sensor state and a led for playing state and a control to double the tempo. [Work in progress - check the repo here](https://github.com/heinerbehrends/hearbeat-to-midi)
 
 ### 🔠 Pizzazz - An online multiplayer micro-scrabble game
 Pizzazz is to scrabble what a blog post is to a tweet. Pizzazz consists of a react frontend that uses Redux and Redux-Saga for async state management and a nodejs backend. Web sockets are used for fast bi-directional communication between the server and the client. I [rewrote the application](https://github.com/heinerbehrends/pizzazz) with TypeScript, XState an Partykit. 
